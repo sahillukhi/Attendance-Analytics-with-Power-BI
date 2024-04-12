@@ -1,0 +1,5 @@
+- A comprehensive Power BI project was undertaken to analyze attendance data.
+- Robust data cleaning procedures were implemented to ensure accuracy and reliability.
+- Key insights on attendance trends, work-from-home percentages, and sick leave patterns were extracted utilizing visualizations and calculations.
+- The findings were showcased in an interactive dashboard.
+- Actionable metrics and recommendations were derived from the project, demonstrating proficiency in data analysis and visualization techniques essential for informed decision-making in organizational settings.
